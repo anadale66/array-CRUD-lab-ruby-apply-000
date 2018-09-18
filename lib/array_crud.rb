@@ -2,7 +2,9 @@ def create_an_empty_array
   batman = []
 end
 
-def create_an_array
+def create_an_array 
+  
+  batman = [1,3,5,6]
   
 end
 
